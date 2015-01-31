@@ -1,0 +1,15 @@
+               _                           
+platform       x86_64-w64-mingw32          
+arch           x86_64                      
+os             mingw32                     
+system         x86_64, mingw32             
+status                                     
+major          3                           
+minor          1.2                         
+year           2014                        
+month          10                          
+day            31                          
+svn rev        66913                       
+language       R                           
+version.string R version 3.1.2 (2014-10-31)
+nickname       Pumpkin Helmet              
